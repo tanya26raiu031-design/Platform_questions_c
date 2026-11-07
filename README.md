@@ -1,2 +1,2 @@
 # Platform-questions-C-
-My solutions to coding problems from LeetCode, HackerRank and HackerEarth, written in C.
+C programming solutions of assignment (Modules 1-6) across LeetCode, HackerRank, and HackerEarth.
